@@ -21,3 +21,9 @@ Dashboard terdiri dari:
 - Grafik alat tangkap dominan
 - Data Produksi per tahun
 - CPUE dan MSY
+
+# Tampilan About
+- Technicall Requirements
+- About App
+- About Developer
+- Step by Step Guide
