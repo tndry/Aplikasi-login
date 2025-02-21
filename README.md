@@ -10,6 +10,14 @@ Menampilkan halaman home.
 
 # Tampilan Dashboard
 Dashboard terdiri dari:
-- Menu Utama
-- Analisis
-- About
+- Table Statistik
+- Grafik Tangkapan per Tahun
+- Grafik Jumlah Alat Tangkap Dominan
+- Database
+
+# Tampilan Analisis
+- Upload CSV
+- Grafik Tangkapan per Tahun
+- Grafik alat tangkap dominan
+- Data Produksi per tahun
+- CPUE dan MSY
